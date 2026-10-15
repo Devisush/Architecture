@@ -64,7 +64,7 @@ MCCXIX = 1000 + 200 + 10 + 9 = 1219
 937<sub>10</sub> = 3A916
 
 ## №3
-7<sub>8<sub> = 111<sub>2</sub>
+7<sub>8</sub> = 111<sub>2</sub>
 
 6<sub>8</sub> = 110<sub>2</sub>
 
