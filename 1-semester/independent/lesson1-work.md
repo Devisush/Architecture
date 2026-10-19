@@ -83,15 +83,15 @@ MCCXIX = 1000 + 200 + 10 + 9 = 1219
 312<sub>8</sub> = 11001010<sub>2</sub>
 
 ## №4
+
 А) 110101<sub>2</sub> = 2<sup>0</sup> + 0 + 2<sup>2</sup> + 0 + 2<sup>4</sup> + 2<sup>5</sup> = 1 + 4 + 16 + 32 = 53<sub>10</sub>
 
 Б) 10110001<sub>2</sub> = 2<sup>0</sup> + 0 + 0 + 0 + 2<sup>4</sup> + 2<sup>5</sup> + 0 + 2<sup>7</sup> = 1 + 16 + 32 + 128 = 176<sub>10</sub>
 
-В) 563<sub>8</sub> = 3*8<sup>0</sup> + 6*8<sup>1</sup> + 5*8<sup>2</sup> = 3 + 48 + 320 = 371<sub>10</sub>
+В) 563<sub>8</sub> = 3\*8<sup>0</sup> + 6\*8<sup>1</sup> + 5*8<sup>2</sup> = 3 + 48 + 320 = 371<sub>10</sub>
 
-Г) 635<sub>8</sub> = 5*8<sup>0</sup> + 3*8<sup>1</sup> + 6*8<sup>2</sup> = 5 + 24 + 384 = 413<sub>10</sub>
+Г) 635<sub>8</sub> = 5\*8<sup>0</sup> + 3\*8<sup>1</sup> + 6*8<sup>2</sup> = 5 + 24 + 384 = 413<sub>10</sub>
 
-Д) AC4<sub>16</sub> = 4 * 16<sup>0</sup> + 12*16<sup>1</sup> + 10*16<sup>2</sup> = 4 + 192 + 2560 = 2756<sub>10</sub>
+Д) AC4<sub>16</sub> = 4 \* 16<sup>0</sup> + 12\*16<sup>1</sup> + 10\*16<sup>2</sup> = 4 + 192 + 2560 = 2756<sub>10</sub>
 
-Е) 9D5C<sub>16</sub> = 12*16<sup>0</sup> + 5*16<sup>1</sup> + 13*16<sup>2</sup> + 9*163 = 12 + 80 + 3328 + 36864 = 40284<sub>10</sub>
-
+Е) 9D5C<sub>16</sub> = 12\*16<sup>0</sup> + 5\*16<sup>1</sup> + 13\*16<sup>2</sup> + 9\*163 = 12 + 80 + 3328 + 36864 = 40284<sub>10</sub>
