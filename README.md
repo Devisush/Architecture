@@ -9,3 +9,6 @@
 # 1 Семестр
 ## Домашние задания
 - [Задание 1](./1-semester/homework/homework-1.md)
+
+## Работы на парах
+- [Работа 1](./1-semester/lesson-works/lesson1-work.md)
