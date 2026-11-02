@@ -44,3 +44,7 @@ C = треугольник равнобедренный
 D = треугольник равносторонний
 
 !A & !B -> !C & !D
+
+## №3
+<img width="595" height="223" alt="image" src="https://github.com/user-attachments/assets/b6b5bdde-58a7-4e01-bd5d-5de2c7cac0a1" />
+
